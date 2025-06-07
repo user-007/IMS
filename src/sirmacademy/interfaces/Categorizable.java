@@ -1,6 +1,6 @@
-package interfaces;
+package sirmacademy.interfaces;
 
-interface Categorizable{
+public interface Categorizable{
 
     public Object setItemCategory();
     public Object getItemCategory();
